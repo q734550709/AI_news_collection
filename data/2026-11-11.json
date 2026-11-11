@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-11",
+  "coverage_window": "2026-11-02/2026-11-11",
+  "count": 8,
+  "items": [
+    {
+      "rank": 1,
+      "category": "融资并购",
+      "title": "Anthropic 启动 IPO 路演，最高拟募资约 644 亿美元",
+      "summary": "Anthropic 启动纳斯达克 IPO 路演，发行价区间 70—78 美元/股、拟发行 8.25 亿股，最高募资约 644 亿美元，对应估值约 1.02 万亿美元。",
+      "date": "2026-11-10",
+      "importance": 5,
+      "tags": ["Anthropic", "IPO", "TSMC", "Google", "NVIDIA"],
+      "sources": [
+        {
+          "name": "Anthropic：IPO roadshow launch",
+          "url": "https://www.anthropic.com/news/roadshow-launch"
+        },
+        {
+          "name": "Reuters / The Economic Times：Anthropic IPO",
+          "url": "https://m.economictimes.com/tech/technology/anthropic-brings-claude-to-google-meet-to-tackle-tasks-live/amp_articleshow/135718926.cms"
+        },
+        {
+          "name": "36 氪：Anthropic 启动 IPO 路演，七家科技巨头联手下注",
+          "url": "https://36kr.com/p/4064071304336262"
+        },
+        {
+          "name": "财联社 / 网易：台积电拟投资 Anthropic 与 OpenAI",
+          "url": "http://m.163.com/dy/article/LBES297D05198CJN.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "产品发布",
+      "title": "Google 发布 Gemini 4 Carbon，主打长时程任务与低成本",
+      "summary": "Google DeepMind 推出面向长时程、多步骤任务的前沿模型 Gemini 4 Carbon，在 CursorBench 4.0、Perplexity WANDR 与 Zapier AutomationBench 均排名第一，单任务成本较次优外部模型低一半以上。",
+      "date": "2026-11-10",
+      "importance": 5,
+      "tags": ["Google", "Gemini", "frontier model", "agent"],
+      "sources": [
+        {
+          "name": "Google：Gemini 4 Carbon is now available",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "name": "Google DeepMind：Gemini 4 Carbon Model Card",
+          "url": "https://deepmind.google/models/model-cards/gemini-4-carbon/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "产品发布",
+      "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2，并切入办公套件",
+      "summary": "Anthropic 发布面向高难度技术工作的 Claude Fable 5.2 与受限版 Mythos 5.2，输出速度最高提升 30%，价格降至每百万 token 8/40 美元，并在编码、科研与网络安全基准上领先。",
+      "date": "2026-11-09",
+      "importance": 5,
+      "tags": ["Anthropic", "Claude", "Claude Sheets", "Google Meet"],
+      "sources": [
+        {
+          "name": "Anthropic：Claude Fable 5.2 and Mythos 5.2",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "name": "Claude：Sheets, Whiteboards, and Data",
+          "url": "https://claude.com/resources/articles/sheets-whiteboards-data"
+        },
+        {
+          "name": "AI Weekly：Anthropic Rolls Out Claude Sheets, Meetings and Whiteboards",
+          "url": "https://aiweekly.co/alerts/anthropic-rolls-out-claude-sheets-meetings-and-whiteboards"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "商业动态",
+      "title": "OpenAI 三季度营收达 100 亿美元，年化约 500 亿美元",
+      "summary": "OpenAI CFO Sarah Friar 表示，三季度营收环比增长近 50% 至 100 亿美元、年化约 500 亿美元，企业业务单季翻倍并占总营收一半，周活跃用户达 12 亿。",
+      "date": "2026-11-11",
+      "importance": 4,
+      "tags": ["OpenAI", "revenue", "enterprise", "Dots"],
+      "sources": [
+        {
+          "name": "财联社 / 新浪财经：OpenAI 三季度营收环比增近 50% 至 100 亿美元",
+          "url": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyipka5361721.shtml"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "融资并购",
+      "title": "OpenAI 完成约 110 亿美元融资首轮交割，估值 1.25 万亿美元",
+      "summary": "OpenAI 以 1.25 万亿美元估值完成约 110 亿美元融资首轮交割，最终规模可能达 200 亿美元，但仍低于最初 300 亿美元目标，显示资本对 AI 高投入的态度趋于谨慎。",
+      "date": "2026-11-07",
+      "importance": 4,
+      "tags": ["OpenAI", "funding", "SoftBank", "valuation"],
+      "sources": [
+        {
+          "name": "新浪财经 / 智通财经：OpenAI 完成约 110 亿美元新一轮融资首轮交割",
+          "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-07/doc-inixwhsk8403346.shtml"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "技术突破",
+      "title": "MIT CSAIL “权重空间编程”引发独立复现，GPT-6 Astra 可直接改写小模型权重",
+      "summary": "MIT CSAIL 提出“权重空间编程”，让 GPT-6 Astra 直接读取和修改神经网络权重；仅修改 Qwen3.5-0.8B 约 0.016% 的权重，就将 MATH-500 成绩从 7.9% 提升至 48.1%，Alan Turing Institute 随后完成独立复现。",
+      "date": "2026-11-03",
+      "importance": 4,
+      "tags": ["MIT CSAIL", "weight-space programming", "GPT-6 Astra", "Qwen"],
+      "sources": [
+        {
+          "name": "36 氪：MIT 让 GPT-6 Astra 直接改写神经网络权重",
+          "url": "https://36kr.com/p/4053676489888902"
+        },
+        {
+          "name": "The Alan Turing Institute：Replicating Weight-Space Programming",
+          "url": "https://www.turing.ac.uk/sites/default/files/2026-11/paper.pdf"
+        },
+        {
+          "name": "项目博客：Sparks of Weight-Space Programming",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "融资并购",
+      "title": "Marvell 以 1150 亿美元全股票收购 Lumentum，押注 AI 光互连",
+      "summary": "Marvell 宣布以 1150 亿美元（含债务）全股票收购光通信器件厂商 Lumentum，合并后企业价值超过 2750 亿美元，成为 AI 数据中心光互连领域最大规模整合之一。",
+      "date": "2026-11-02",
+      "importance": 4,
+      "tags": ["Marvell", "Lumentum", "M&A", "AI infrastructure", "optical interconnect"],
+      "sources": [
+        {
+          "name": "Marvell：Marvell and Lumentum to Combine",
+          "url": "https://investor.marvell.com/_assets/_4b2ef940d8378f4928a6a90255e70f76/marvell/news/2026-11-02_Marvell_and_Lumentum_to_Combine_Creating_a_1040.pdf"
+        },
+        {
+          "name": "Reuters via Euronext：Marvell / Lumentum",
+          "url": "https://live.euronext.com/en/financial-news/marvell-doubles-down-ai-boom-costly-115-billion-lumentum-deal"
+        },
+        {
+          "name": "财新：Marvell 拟 1150 亿美元收购 Lumentum",
+          "url": "http://companies.caixin.com/2026-11-03/102500326.html"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "category": "标准治理",
+      "title": "全球 AI 治理密集推进：乌镇发布前沿 AI 安全治理框架，欧盟 AI Act 进入执法期",
+      "summary": "世界互联网大会在 2026 乌镇峰会发布《前沿人工智能安全与治理 2026》与《携手构建全球开放人工智能行动倡议》，提出 18 条行动；同期欧盟 AI Act 已进入执法阶段，高风险系统义务延至 2027 年 12 月。",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": ["AI governance", "EU AI Act", "Wuzhen Summit", "AI safety"],
+      "sources": [
+        {
+          "name": "世界互联网大会：全球开放人工智能行动倡议",
+          "url": "https://cn.wicinternet.org/2026-11/02/content_39081991.htm"
+        },
+        {
+          "name": "中国日报：世界互联网大会发布系列重要成果",
+          "url": "http://cn.chinadaily.com.cn/a/202611/04/WS6aeb3593e4b0e14252fc938c.html"
+        },
+        {
+          "name": "欧盟委员会：AI Act",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+        },
+        {
+          "name": "AI World Today：White House Signals Conditional Openness to AI Guardrails",
+          "url": "https://aiworldtoday.com/news/trump-ai-guardrails-60-minutes-china-lead"
+        }
+      ]
+    }
+  ],
+  "trend_commentary": "今日主线是“能力竞赛”与“资本约束”同时加速：Gemini 4 Carbon 与 Claude Fable 5.2 把前沿模型竞争推向长时程任务和单位成本，而 Anthropic 的万亿级 IPO 与 OpenAI 下调后的融资目标说明资本市场正在重新定价 AI 的投入产出。技术侧，“权重空间编程”让大模型直接编辑小模型权重从概念走向可复现实验，但目前仍擅长修复明确故障，而非注入新能力。治理侧，欧盟 AI Act 进入执法期、乌镇峰会提出开放治理框架、美国中期选举后白宫释放护栏谈判信号，全球 AI 规则正从原则声明转向可执行条款。"
+}
