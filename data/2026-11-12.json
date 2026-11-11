@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-12",
+  "coverage_window": "2026-11-10/2026-11-12",
+  "count": 8,
+  "items": [
+    {
+      "rank": 1,
+      "category": "融资并购",
+      "title": "Anthropic 启动 IPO 路演，完全摊薄估值最高约 1.4 万亿美元",
+      "summary": "Anthropic 启动纳斯达克 IPO 路演，拟发行 8.25 亿股、发行价区间 70—78 美元/股，最高募资约 644 亿美元；完全摊薄口径最高估值约 1.4 万亿美元，预计 11 月 19 日挂牌，代码 ANT。",
+      "date": "2026-11-10",
+      "importance": 5,
+      "tags": ["Anthropic", "IPO", "NASDAQ", "ANT", "Alphabet", "NVIDIA", "AMD"],
+      "sources": [
+        {
+          "name": "Anthropic：IPO roadshow launch",
+          "url": "https://www.anthropic.com/news/roadshow-launch"
+        },
+        {
+          "name": "Reuters：Anthropic IPO to raise as much as $64.4 billion",
+          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/"
+        },
+        {
+          "name": "Barchart：Anthropic Launches IPO Roadshow at $1.4 Trillion Valuation",
+          "url": "https://www.barchart.com/story/news/8783789/anthropic-launches-ipo-roadshow-at-1-4-trillion-valuation-what-that-means-for-future-ant-stock-investors"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "技术突破",
+      "title": "Google DeepMind 发布 AlphaProof Code，首次用 AI 形式化验证 Signal 协议代码",
+      "summary": "Google DeepMind 发布多 LLM 智能体框架 AlphaProof Code，对 Signal 协议的已部署代码完成形式化验证，生成超过 600 万行 Lean 证明，把通常需要数年的工作压缩至 4 周。",
+      "date": "2026-11-10",
+      "importance": 5,
+      "tags": ["Google DeepMind", "AlphaProof Code", "formal verification", "Lean", "Signal", "Gemini Carbon"],
+      "sources": [
+        {
+          "name": "Google DeepMind：Introducing AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        },
+        {
+          "name": "技术论文：Formal Verification of Signal",
+          "url": "https://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "产品发布",
+      "title": "谷歌发布 A2UI 1.0，智能体可用原生交互界面作答",
+      "summary": "谷歌发布生成式 UI 开放协议 A2UI 的 1.0 稳定版，让 AI 智能体以表单、图表、选择器等原生交互界面作答，协议以 Apache 2.0 开源并提供多平台渲染器。",
+      "date": "2026-11-11",
+      "importance": 4,
+      "tags": ["Google", "A2UI", "generative UI", "open protocol", "agent"],
+      "sources": [
+        {
+          "name": "凤凰网科技：谷歌 AI 新协议正式发布",
+          "url": "https://original.ifeng.com/c/8xytKFJnGvS"
+        },
+        {
+          "name": "A2UI 官方文档",
+          "url": "https://a2ui.org/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "产品发布",
+      "title": "Google DeepMind 发布 Gemini Robotics 2.5，奔驰产线分拣成功率达 96%",
+      "summary": "Google DeepMind 发布新一代视觉—语言—动作模型 Gemini Robotics 2.5，在 200 多项任务上成功率较基线提升 30%—100%、速度快 20%—30%，并在奔驰工厂的 Apptronik Apollo 2 上实现 96% 的汽车零件分拣成功率。",
+      "date": "2026-11-10",
+      "importance": 4,
+      "tags": ["Google DeepMind", "Gemini Robotics", "VLA", "humanoid", "Mercedes-Benz", "Apptronik"],
+      "sources": [
+        {
+          "name": "Google DeepMind：Gemini Robotics 2.5",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+        },
+        {
+          "name": "36 氪：谷歌具身 RSI 新成果发布",
+          "url": "https://m.36kr.com/p/4065200594867076"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "产品发布",
+      "title": "百度发布文心 5.5 Flash Preview，2800 亿参数、百万上下文",
+      "summary": "百度发布文心 5.5 Flash Preview，总参数 2800 亿、每 Token 激活 140 亿，支持 100 万 Token 上下文，主打编程、3D 建模与知识工作，API 已上线千帆平台，权重将于 11 月 25 日开源。",
+      "date": "2026-11-11",
+      "importance": 4,
+      "tags": ["Baidu", "ERNIE", "MoE", "open weights", "coding", "3D"],
+      "sources": [
+        {
+          "name": "新华网：百度发布文心全新开源模型",
+          "url": "http://www.xinhuanet.com/tech/20261111/183aa161e70b4942b622e10b5e3da605/c.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "标准治理",
+      "title": "全球 AI 治理双线推进：澳大利亚拟立法设强制安全标准，Anthropic 使用政策 11 月 12 日生效",
+      "summary": "澳大利亚宣布将通过立法对前沿 AI 企业设定强制性安全标准并设立专门监管机构；Anthropic 同日更新使用政策并于 11 月 12 日生效，新增自主物理动作控制与高风险场景人工复核要求。",
+      "date": "2026-11-10",
+      "importance": 4,
+      "tags": ["Australia", "AI safety", "regulation", "Anthropic", "usage policy", "human-in-the-loop"],
+      "sources": [
+        {
+          "name": "新华网：澳大利亚将对人工智能开发企业提出强制性安全要求",
+          "url": "http://www.xinhuanet.com/fortune/20261110/d3fe7bfbc08b4aeaa6be89df43c36a3b/c.html"
+        },
+        {
+          "name": "Anthropic：2026 Usage Policy update",
+          "url": "https://www.anthropic.com/news/2026-usage-policy-update"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "融资并购",
+      "title": "沐曦与优必选合资公司曦选创智完成 5 亿元天使轮融资",
+      "summary": "由沐曦股份与优必选共同发起的具身智能端侧计算平台公司曦选创智完成 5 亿元天使轮融资，纪源资本、经纬创投联合领投，资金将投向核心芯片、软件工具链与量产验证。",
+      "date": "2026-11-11",
+      "importance": 4,
+      "tags": ["沐曦", "优必选", "曦选创智", "embodied AI", "edge chip", "funding"],
+      "sources": [
+        {
+          "name": "腾讯新闻 / 通信世界：沐曦和优必选联姻造具身芯片",
+          "url": "http://news.qq.com/rain/a/20261112A02QG900"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "category": "商业动态",
+      "title": "双 11 首次出现大模型 Token 集中促销，多款套餐降至 5 折及以下",
+      "summary": "双 11 期间智谱、MiniMax、千问办公、阿里云、Qoder 等在天猫 AI 空间站集中促销 Token 与订阅套餐，多款月卡、周卡降至 5 折及以下，京东直播间 Token 包最低至 0.01 元。",
+      "date": "2026-11-11",
+      "importance": 3,
+      "tags": ["双11", "Token", "price war", "智谱", "MiniMax", "阿里云"],
+      "sources": [
+        {
+          "name": "新浪财经：仅此一天！天猫双 11 Token 今天打 5 折",
+          "url": "https://finance.sina.com.cn/roll/2026-11-11/doc-iniyitsc1928551.shtml"
+        },
+        {
+          "name": "凤凰网：天猫双 11 大模型 Token 促销",
+          "url": "https://original.ifeng.com/c/8xxnS8SrW4U"
+        },
+        {
+          "name": "每日经济新闻：多家大模型厂商双 11 促销 Token",
+          "url": "http://m.toutiao.com/group/7707052727460741642/"
+        }
+      ]
+    }
+  ],
+  "trend_commentary": "今日主线是“能力验证”与“入口争夺”同时升温：AlphaProof Code 把 AI 从代码生成推进到可机器检查的形式化证明，Gemini Robotics 2.5 则让具身模型在真实产线上拿到可量化的可靠性数据，前沿竞争开始以“可验证的正确性”而非单纯跑分说话。资本侧，Anthropic 以最高 1.4 万亿美元估值启动路演，沐曦与优必选则把国产算力延伸到机器人端侧，说明资金仍在沿“模型—算力—本体”链条寻找稀缺卡位。与此同时，澳大利亚强制安全立法与 Anthropic 使用政策同日落地，治理正从原则声明转向可执行义务；而双 11 的 Token 价格战提示，模型能力最终仍要通过分发与单位成本接受市场检验。"
+}
