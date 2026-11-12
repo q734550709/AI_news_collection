@@ -1,0 +1,204 @@
+{
+  "date": "2026-11-13",
+  "coverage_window": "2026-11-11/2026-11-13",
+  "count": 8,
+  "items": [
+    {
+      "rank": 1,
+      "category": "产品发布",
+      "title": "Google 发布 Gemini 4 Hydrogen，成为 Gemini 4 家族的高性价比执行层",
+      "summary": "Google DeepMind 推出面向日常编码与智能体工作流的 Gemini 4 Hydrogen，以每百万输入/输出 token 1.50/7.50 美元提供 100 万 token 上下文，并同步接入 Google Search 与 Antigravity。",
+      "date": "2026-11-12",
+      "importance": 5,
+      "tags": ["Google", "Gemini", "Gemini 4 Hydrogen", "agent", "Google Search", "Antigravity"],
+      "sources": [
+        {
+          "name": "Google：Introducing Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+        },
+        {
+          "name": "Google：Gemini 4 Hydrogen 升级 Google Search",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+        },
+        {
+          "name": "TSN：Google Launches Gemini 4 Hydrogen",
+          "url": "https://tsnmedia.org/gemini-4-hydrogen/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "标准治理",
+      "title": "四家非营利组织起诉 OpenAI、Google、Anthropic、Meta 与 SpaceX AI，要求暂停前沿模型开发",
+      "summary": "美国四家非营利组织向旧金山高等法院提起诉讼，要求法院阻止五家 AI 公司继续开发或部署新模型，理由是现有安全措施无法排除“灾难性”风险。",
+      "date": "2026-11-13",
+      "importance": 5,
+      "tags": ["AI safety", "lawsuit", "OpenAI", "Google", "Anthropic", "Meta", "SpaceX"],
+      "sources": [
+        {
+          "name": "Associated Press via Millennium Post：Advocacy groups sue AI giants",
+          "url": "https://www.millenniumpost.in/business/advocacy-groups-sue-ai-giants-to-freeze-new-models-683012"
+        },
+        {
+          "name": "凤凰网科技：五家 AI 企业遭起诉",
+          "url": "https://original.ifeng.com/c/8y0hx7xqOPU"
+        },
+        {
+          "name": "Reuters via Tribune：AI giants hit with lawsuit",
+          "url": "https://tribune.com.pk/story/2639977/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "技术突破",
+      "title": "Google DeepMind 发布 AlphaGenome 2，可按细胞类型预测基因变异效应",
+      "summary": "DeepMind 推出 AlphaGenome 2，可接收最多 100 万个 DNA 碱基及组织/细胞类型条件，在 TenK10K 数据上识别出 30% 的因果变异，较上一代 16% 明显提升。",
+      "date": "2026-11-11",
+      "importance": 5,
+      "tags": ["Google DeepMind", "AlphaGenome", "genomics", "AI for science", "single-cell"],
+      "sources": [
+        {
+          "name": "Google DeepMind：AlphaGenome 2",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+        },
+        {
+          "name": "Google DeepMind：AlphaGenome 2 技术论文",
+          "url": "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/alphagenome-2.pdf"
+        },
+        {
+          "name": "Nature：AlphaGenome 2 独立报道",
+          "url": "https://www.nature.com/articles/d41586-026-03673-0"
+        },
+        {
+          "name": "Market & Tech：AlphaGenome 2 cell-type variants",
+          "url": "https://marketandtech.com/en/news/2026-11-12-alphagenome-2-cell-specific-variants/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "融资并购",
+      "title": "英国 AI 芯片公司 Fractile 完成 7.2 亿美元 C 轮，估值 70 亿美元",
+      "summary": "Fractile 以 70 亿美元投后估值完成 7.2 亿美元 C 轮融资，押注将 DRAM 堆叠在计算逻辑之上的 AI 推理芯片架构，挑战 Nvidia。",
+      "date": "2026-11-12",
+      "importance": 4,
+      "tags": ["Fractile", "AI chips", "inference", "Series C", "UK"],
+      "sources": [
+        {
+          "name": "Tech Startups：Startup Funding News Today, November 12, 2026",
+          "url": "https://techstartups.com/2026/11/12/startup-funding-news-today-november-12-2026-fractile-uforce-agile-robots-imprint-more/"
+        },
+        {
+          "name": "Reuters via Euronext：Fractile hits $7 billion valuation",
+          "url": "https://live.euronext.com/en/financial-news/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round"
+        },
+        {
+          "name": "Tech Funding News：Fractile's $7B valuation",
+          "url": "https://techfundingnews.com/fractile-720m-series-c-7b-valuation-ai-inference-chips/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "标准治理",
+      "title": "欧盟通过 AI 监管沙盒实施条例，要求成员国最迟 2027 年 8 月建成",
+      "summary": "欧盟委员会通过实施条例 (EU) 2026/2487，统一 AI 监管沙盒的设立、运行与监督规则，要求各成员国至少建立一个沙盒，并于 2027 年 8 月 2 日前投入运行。",
+      "date": "2026-11-12",
+      "importance": 4,
+      "tags": ["EU AI Act", "regulatory sandbox", "AI governance", "SME"],
+      "sources": [
+        {
+          "name": "AESIA：欧盟委员会确立 AI 沙盒共同规则",
+          "url": "https://aesia.digital.gob.es/es/actualidad/20261112-la-comision-europea-establece-normas-comunes-para-el-desarrollo-de-los-espacios-controlados"
+        },
+        {
+          "name": "EU AI Act Service Desk：Article 57",
+          "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-57"
+        },
+        {
+          "name": "Cybersecurity360：AI Act sandbox 新规",
+          "url": "https://www.cybersecurity360.it/legal/ai-act-nuove-regole-per-le-sandbox-la-sicurezza-entra-nella-sperimentazione/"
+        },
+        {
+          "name": "欧盟委员会：AI regulatory sandboxes",
+          "url": "http://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15952-Implementing-Regulation-on-AI-Regulatory-Sandboxes_en"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "商业动态",
+      "title": "Fireworks AI 数据泄露范围扩大，部分客户开始迁移业务",
+      "summary": "Fireworks AI 更新安全公告，称 10 月入侵的第二阶段暴露了账单信息，以及部分客户的密钥、数据集和不完整模型权重，已有客户将业务迁出。",
+      "date": "2026-11-12",
+      "importance": 4,
+      "tags": ["Fireworks AI", "security breach", "LLMJacking", "Notion", "Harvey"],
+      "sources": [
+        {
+          "name": "Fireworks AI：October 2026 security incident update",
+          "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update"
+        },
+        {
+          "name": "BleepingComputer：Fireworks AI new breach",
+          "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/"
+        },
+        {
+          "name": "The Hacker News：Fireworks AI wider breach",
+          "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html"
+        },
+        {
+          "name": "新浪财经：Fireworks 数据泄露波及大客户",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyfzhx2605532.shtml.md"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "产品发布",
+      "title": "Google 开放 Gemini 智能眼镜预订，395 美元起",
+      "summary": "Google 开放首款 Intelligent Eyewear 预订，Warby Parker 款 395 美元起、Gentle Monster 款 449 美元起，12 月 10 日在美国和韩国上市，支持“Hey Gemini”唤醒与 70 多种语言实时翻译。",
+      "date": "2026-11-12",
+      "importance": 4,
+      "tags": ["Google", "Gemini", "smart glasses", "Android XR", "Warby Parker"],
+      "sources": [
+        {
+          "name": "Google：Intelligent eyewear collections pre-order",
+          "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/"
+        },
+        {
+          "name": "Warby Parker：Opens Preorders for First Intelligent Eyewear Collection",
+          "url": "https://investors.warbyparker.com/news/news-details/2026/Warby-Parker-Opens-Preorders-for-First-Intelligent-Eyewear-Collection/default.aspx"
+        },
+        {
+          "name": "金融界：谷歌发布 AI 眼镜",
+          "url": "http://m.toutiao.com/group/7707423838564401727/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "category": "融资并购",
+      "title": "IBM 收购 AuthMind，强化 AI 智能体身份安全",
+      "summary": "IBM 宣布收购身份安全公司 AuthMind，交易金额未披露，其技术将并入 HashiCorp Vault 的 IBM Agent Identity 计划，用于保护 AI 智能体全生命周期的凭证与密钥。",
+      "date": "2026-11-12",
+      "importance": 3,
+      "tags": ["IBM", "AuthMind", "HashiCorp Vault", "agent identity", "acquisition"],
+      "sources": [
+        {
+          "name": "IBM Newsroom：IBM advances agent identity security",
+          "url": "https://newsroom.ibm.com/blog-ibm-advances-agent-identity-security-with-new-vault-capabilities"
+        },
+        {
+          "name": "GuruFocus：IBM Acquires AuthMind",
+          "url": "https://www.gurufocus.com/news/9194725/ibm-ibm-acquires-authmind-to-enhance-ai-security-capabilities"
+        },
+        {
+          "name": "Pulse 2.0：IBM AuthMind Acquisition",
+          "url": "https://pulse2.com/ibm-authmind-acquisition-expands-ai-agent-identity-security-in-hashicorp-vault/"
+        }
+      ]
+    }
+  ],
+  "trend_commentary": "今日的主线是“推理效率”与“可信边界”同步收紧：Gemini 4 Hydrogen 以低价、可切换思考档位和 Orchestrator 把竞争从单模型能力转向多模型协同的单位任务成本，AlphaGenome 2 则显示前沿模型正加速进入科研发现流程。资本端继续向 AI 基础设施的硬科技环节集中，Fractile 的 70 亿美元估值与 IBM 对智能体身份安全的收购，说明“算力—安全”正在成为新的投资坐标。治理端，欧盟沙盒规则落地与五家巨头被诉，标志着监管从原则宣示转向可执行的准入与司法约束，模型发布节奏将越来越多地受合规与诉讼变量影响。"
+}
